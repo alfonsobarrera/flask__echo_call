@@ -1,1 +1,3 @@
-dnspython
+pip install flask
+pip install python-whois
+pip install requests
